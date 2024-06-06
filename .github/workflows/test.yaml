@@ -20,6 +20,4 @@ jobs:
       - name: Build Docker Image
         working-directory: src
         run: |
-          cp ../scripts/build_docker_image.sh .
-          chmod +x build_docker_image.sh
-          ./build_docker_image.sh
+          docker build -t apix-nginx:v1.0.0 .
