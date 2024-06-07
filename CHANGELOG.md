@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/lemiliomoreno/ghactions-demo/compare/v1.0.0...v1.0.1) (2024-06-07)
+
+
+### Bug Fixes
+
+* healthcheck message ([#5](https://github.com/lemiliomoreno/ghactions-demo/issues/5)) ([48cd0b2](https://github.com/lemiliomoreno/ghactions-demo/commit/48cd0b25f485fd45d0171c16bfe35fec8ea4c5f0))
+
 # 1.0.0 (2024-06-07)
 
 
