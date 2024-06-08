@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/lemiliomoreno/ghactions-demo/compare/v1.0.1...v1.1.0) (2024-06-08)
+
+
+### Features
+
+* add tag in docker push ([#6](https://github.com/lemiliomoreno/ghactions-demo/issues/6)) ([d30a309](https://github.com/lemiliomoreno/ghactions-demo/commit/d30a309a358cd669090e2a1b2039352f47fae351))
+
 ## [1.0.1](https://github.com/lemiliomoreno/ghactions-demo/compare/v1.0.0...v1.0.1) (2024-06-07)
 
 
